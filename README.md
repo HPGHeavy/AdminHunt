@@ -1,2 +1,2 @@
-# AdminHunt
-script for A3 Exile
+# Admin-Hunt
+modified script for A3 Exile
