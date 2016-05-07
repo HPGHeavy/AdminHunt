@@ -1,0 +1,7 @@
+Install instructions
+
+1. Copy init.sqf to mission pbo or paste contents of init.sqf into existing one
+2. Add admin playerIDs
+3. Copy AdminHunt sqfs to AdminHunt folder under \scripts directory
+4. You will need to modify BE filters. If filters not in use, then no worries
+5. Have fun!
