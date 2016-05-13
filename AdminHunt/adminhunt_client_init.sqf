@@ -1,5 +1,3 @@
-/* --- All credits to 5nine and NibbleGaming for initial release --- */
-/* --- Ported/modified by Heavy for A3 Exile --- */
 
 waitUntil{uiSleep 1; ExileClientPlayerIsSpawned};
 
