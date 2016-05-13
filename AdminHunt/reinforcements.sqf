@@ -1,5 +1,3 @@
-/* --- All credits to 5nine and NibbleGaming for initial release --- */
-/* --- Ported/modified by Heavy for A3 Exile --- */
 
 private ["_movposadmin","_combatgrp","_AI_init","_rifleman","_posadmin","_nameadmin"];
 _posadmin 	= (_this select 0 select 0);
