@@ -1,5 +1,3 @@
-/* --- All credits to 5nine and NibbleGaming for initial release --- */
-/* --- Ported/modified by Heavy for A3 Exile --- */
 
 private ["_marker","_crate","_start","_stop","_exit","_hint","_nameadmin","_reinforcements","_reinforce","_markercolor","_markertext","_markername","_markeradmin"];
 
